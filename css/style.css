@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: rgb(212, 196, 248);
+    margin-top: 30px;
+}
+
+form {
+    padding: 6px 4px 8px 12px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    margin: 0 auto;
+    width: max-content;
+    text-align: left;
+
+}
+
+.dima {
+    width: 420px;
+    margin-bottom: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0) grey grey rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+.inp {
+    margin-bottom: 20px;
+}
+
+select {
+    width: 60px;
+    margin-bottom: 20px;
+}
+
+.PrgC {
+    margin-bottom: 35px;   
+}
+
+input {
+    padding: 2px 0px 3px 4px;
+    font-size: 16px;
+}
+
+.reg {
+    border-color: grey black black grey;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    width: 415px;
+}
